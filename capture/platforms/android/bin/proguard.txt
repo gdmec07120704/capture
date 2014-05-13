@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class cn.edu.gdmec.陈坤07120704.capture.Mycapture { <init>(...); }
+
